@@ -13,7 +13,7 @@ const HelloWorldPage = () => {
       </p>
       <p>
         My default route is named <code>helloWorld</code>, link to me with `
-        <Link to={routes.helloWorld()}>HelloWorld</Link>`
+        <Link to={routes.about()}>About page</Link>`
       </p>
     </>
   )
